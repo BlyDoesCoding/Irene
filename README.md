@@ -38,5 +38,6 @@ This project is licensed under the [BSD 3-Clause License](LICENSE). Refer to the
 ## Acknowledgments
 
 - A big thank you to the Go programming community for their valuable resources and tutorials.
+- Image processing in this project is powered by the [bimg](https://github.com/h2non/bimg) library by [h2non](https://github.com/h2non).
 
 Enjoy resizing images with Irene!
